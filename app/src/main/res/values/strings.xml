@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="test">Test</string>
+    <string name="settings">settings</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="sil">Sil</string>
+    <string name="e_posta">E-Posta</string>
+    <string name="parola">Parola</string>
+    <string name="oturum_a">Oturum Aç</string>
+    <string name="kaydol">Kaydol</string>
+    <string name="onayla_amp_kaydol"><![CDATA[Onayla & Kaydol]]></string>
+    <string name="you_don_t_have_any_notes">You Don\'t Have Any Notes</string>
+    <string name="empty_note_logo">EMPTY_NOTE_LOGO</string>
+    <string name="WriteNoteActivity">Yeni Not</string>
+    <string name="LoginActivity">Oturum Aç</string>
+    <string name="SignupActivity">Kaydol</string>
+    <string name="MainActivity">Notlarım</string>
+    <string name="channel_name">Mah Notes</string>
+    <string name="channel_description">Notlar Bildirim</string>
+
+    <string name="new_message_notification_title_template">New message: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="new_message_notification_placeholder_text_template">You said %1$s and lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel
+        semper venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis.
+        Pellentesque vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper
+        ornare lacus. Duis ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis
+        viverra rhoncus sit amet nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec
+        tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+    <string name="geofence">Geofence</string>
+</resources>
+

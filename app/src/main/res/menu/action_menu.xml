@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/save"
+        android:title="@string/kaydet"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/shareMenuItem"
+        android:title="Paylas"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/saveWAlarm"
+        android:title="Hatırlatıcı Kur" />
+    <item
+        android:id="@+id/cancelAlarm"
+        android:title="Hatırlatıcıyı İptal Et" />
+    <item
+        android:id="@+id/saveWLoc"
+        android:title="Bu konum için kaydet"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/removeLocFences"
+        android:title="Not Kon. Kaldır"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/erase"
+        android:title="@string/sil"
+        app:showAsAction="never" />
+</menu>
